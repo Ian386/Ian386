@@ -1,15 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Ian Ndolo</h1>
-<h3 align="center">A passionate Computer Science enthuasiastic</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ian368" alt="ian368" /></a> </p>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=13A752&random=false&width=435&lines=Welcome+to+my+Github+profile!!!" alt="Typing SVG" /></a></h3>
 
 - 🌱 I’m currently studying **Computer Science in Kenya**
 
-- 👀I’m interested in **Data Science, Artificial Intelligence, Web Development and cyber security**
+- 👀I’m interested in **Data Science, Artificial Intelligence, Web Development and Cyber Security.**
 
 - 📫 How to reach me **ianmwau21@gmail.com**
 
 - ⚡ Fun fact **I love Chapozz**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ian368" alt="ian368" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
